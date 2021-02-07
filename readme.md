@@ -5,4 +5,5 @@ Instructions for Contributing to the Docs/Website
     Add your changes
     Create Pull Request
     
-    BoxxHealth.com Emergency Medical FOG network Store and foward emergency medical device data with the patieants during triage or in remote off gird enviroments ,
+    BoxxHealth.com Emergency Medical FOG network Store and foward emergency medical device data with the patieants during
+    triage or in remote off gird enviroments.
